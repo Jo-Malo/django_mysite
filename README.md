@@ -1,4 +1,4 @@
-# django_mysite
+# Basic django polls page
 
 A very quick project   *still in progress*   to create a basic polls page which is made up of two parts:
 
